@@ -36,7 +36,7 @@ Contributions are welcome! If you have suggestions for improvements or new metho
 
 You can access the repository https://github.com/RafaelOliRod
 
-Let's connect on [LinkedIn](https://github.com/SeuUsuario/SeuRepositorio).
+Let's connect on [LinkedIn](https://www.linkedin.com/in/rafael-rodrigues-379112278).
 
 ---
 
