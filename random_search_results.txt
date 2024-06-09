@@ -1,0 +1,16 @@
+
+Melhor Modelo - Gradient Boosting - F1-score (classe 1): 0.5828402366863905
+Melhores hiperparâmetros até o momento: {'learning_rate': 0.01, 'max_depth': 8, 'min_samples_leaf': 5, 'min_samples_split': 8, 'n_estimators': 463}
+Critério de F1-score não atingido. Continuando a busca...
+
+Melhor Modelo - Gradient Boosting - F1-score (classe 1): 0.5783132530120482
+Melhores hiperparâmetros até o momento: {'learning_rate': 0.01, 'max_depth': 7, 'min_samples_leaf': 9, 'min_samples_split': 19, 'n_estimators': 616}
+Critério de F1-score não atingido. Continuando a busca...
+
+Melhor Modelo - Gradient Boosting - F1-score (classe 1): 0.5864661654135338
+Melhores hiperparâmetros até o momento: {'learning_rate': 0.01, 'max_depth': 7, 'min_samples_leaf': 8, 'min_samples_split': 13, 'n_estimators': 390}
+Critério de F1-score não atingido. Continuando a busca...
+
+Melhor Modelo - Gradient Boosting - F1-score (classe 1): 0.5775729646697388
+Melhores hiperparâmetros até o momento: {'learning_rate': 0.1, 'max_depth': 3, 'min_samples_leaf': 8, 'min_samples_split': 17, 'n_estimators': 200}
+Critério de F1-score não atingido. Continuando a busca...
